@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando atualmente Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho.
 - 💼 Carreira em desenvolvimento na área da tecnologia com foco no back end.
-- 🌱 Aprendendo mais sobre Java e Spring Boot.
+- 🌱 Aprendendo mais sobre Kotlin, Java e Spring Boot.
 
 ## Minhas Skills
 
